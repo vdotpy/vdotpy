@@ -7,14 +7,17 @@ I am an aspiring backend and infrastructure engineer focused on mastering Python
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages**
-![Python](https://shields.io) ![SQL](https://shields.io)
+### 🛠️ Tech Stack & Tools
 
-**Backend & APIs**
-![FastAPI](https://shields.io) ![Flask](https://shields.io)
+**Languages**  
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="SQL" />
 
-**DevOps & Tools**
-![Git](https://shields.io) ![GitHub Desktop](https://shields.io) ![VS Code](https://shields.io) ![Linux](https://shields.io)
+**Backend & APIs**  
+<img src="https://shields.io" alt="FastAPI" /> <img src="https://shields.io" alt="Flask" />
+
+**DevOps & Tools**  
+<img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub Desktop" /> <img src="https://shields.io" alt="VS Code" /> <img src="https://shields.io" alt="Linux" />
+
 
 ---
 
