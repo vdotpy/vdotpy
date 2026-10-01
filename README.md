@@ -1,4 +1,6 @@
 # 🦇 vdotpy 🩸
+<img align="left" alt="Java" width="100px" style="padding-right:10px;" src="\vdotpy\sayeon_python_pfp.jpg"/>
+---
 
 **AI & ML Student/Hobbyist**
 
@@ -14,5 +16,6 @@ I am an aspiring backend and infrastructure engineer focused on mastering Python
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="left" alt="Java" width="75px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg"/>
 <img align="left" alt="Java" width="75px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg"/>
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 
 
