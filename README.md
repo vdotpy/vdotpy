@@ -1,5 +1,5 @@
 # 🦇 vdotpy 🩸
-<img align="left" alt="Java" width="100px" style="padding-right:10px;" src="\vdotpy\sayeon_python_pfp.jpg"/>
+<img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://imgur.com/a/H9WmcMG"/>
 ---
 
 **AI & ML Student/Hobbyist**
